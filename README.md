@@ -47,12 +47,6 @@ plt.show()
 ## Output
 
 
-<img width="238" alt="image" src="https://github.com/EPriyadharshini/Univariate-Linear-Regression/assets/144870831/aef1bcfd-464f-4c9e-aa05-2f214e2b1b33">
-
-![Screenshot 2023-12-24 013447](https://github.com/23008112/Univariate-Linear-Regression/assets/138972470/41c07b10-778b-44f7-96e7-96ae6425b3bb)
-
-
-
 
 
 
